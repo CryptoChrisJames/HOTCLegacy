@@ -1,0 +1,23 @@
+{
+  "name": "hotclegacy",
+  "version": "1.0.0",
+  "description": "HOTC legacy Website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObsidianTech/HOTCLegacy.git"
+  },
+  "author": "Christopher Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObsidianTech/HOTCLegacy/issues"
+  },
+  "homepage": "https://github.com/ObsidianTech/HOTCLegacy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1"
+  }
+}
