@@ -1,5 +1,5 @@
 FROM node:latest
-WORKDIR /app
-COPY . /app/
+WORKDIR /demo/hotc
+COPY . /demo/hotc
 RUN npm install
 ENTRYPOINT [ "node", "index.js" ]
